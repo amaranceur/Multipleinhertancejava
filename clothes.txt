@@ -1,0 +1,12 @@
+name: kkprice: 500.0avilaiblestock: 23size: s
+name: NMMBprice: 133.0avilaiblestock: 134size: XL
+name: KAprice: 121.0avilaiblestock: 12size: xxl
+name: asprice: 12.0avilaiblestock: 15size: xxl
+name: amarprice: 121.0avilaiblestock: 121size: 121
+name: azzizprice: 200.0avilaiblestock: 121size: 1
+name: kolprice: 121.0avilaiblestock: 121size: xxl
+name: vesteprice: 203.0avilaiblestock: 121size: xxl
+name: koprice: 121.0avilaiblestock: 121size: xl
+name: kprice: 11.0avilaiblestock: 122size: 11
+name: llprice: 12.0avilaiblestock: 12size: 12
+name: aaprice: 11.0avilaiblestock: 121size: 111

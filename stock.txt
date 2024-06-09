@@ -1,0 +1,14 @@
+name: kkprice: 500.0avilaiblestock: 23size: s
+name: akakprice: 1929.0avilaiblestock: 197manufacturer: sonny
+name: pcprice: 1400.0avilaiblestock: 50manufacturer: dell
+name: kolabprice: 500.0avilaiblestock: 60manufacturer: amar
+name: NMMBprice: 133.0avilaiblestock: 134size: XL
+name: KAprice: 121.0avilaiblestock: 12size: xxl
+name: asprice: 12.0avilaiblestock: 15size: xxl
+name: amarprice: 121.0avilaiblestock: 121size: 121
+name: azzizprice: 200.0avilaiblestock: 121size: 1
+name: kolprice: 121.0avilaiblestock: 121size: xxl
+name: kkprice: 121.0avilaiblestock: 12manufacturer: sooa
+name: kkprice: 11.0avilaiblestock: 11size: 11
+name: kprice: 11.0avilaiblestock: 122size: 11
+name: aaprice: 11.0avilaiblestock: 121size: 111

@@ -1,0 +1,4 @@
+name: akakprice: 1929.0avilaiblestock: 197manufacturer: sonny
+name: pcprice: 1400.0avilaiblestock: 50manufacturer: dell
+name: kolabprice: 500.0avilaiblestock: 60manufacturer: amar
+name: kkprice: 121.0avilaiblestock: 12manufacturer: sooa
